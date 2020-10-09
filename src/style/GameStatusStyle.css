@@ -1,0 +1,11 @@
+.gameStatusDiv {
+	text-align: center;
+	width: 175px;
+	margin-top: 20px;
+	display: inline-block;
+}
+
+.user-selection-btn {
+	width: 50px;
+	margin: 5px;
+}

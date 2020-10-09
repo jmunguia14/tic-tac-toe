@@ -1,0 +1,8 @@
+.square {
+	width: 75px;
+	height: 75px;
+}
+
+.squares-board {
+	display: inline-block;
+}

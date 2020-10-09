@@ -1,0 +1,29 @@
+.board{
+    text-align: center;
+}
+
+.header {
+    width: 100%;
+    height: 75px;
+    text-align: center;
+    line-height: 1.1;
+    font-weight: normal;
+    background-color: steelblue;
+    margin-bottom: 30px;
+    padding: 20px 0;
+  }
+
+  .footer {
+  	background: gray;
+  	position:absolute;
+	left:0;
+	bottom:0;
+	right:0;
+	padding: 10px;
+	color: white;
+  }
+
+  .whiteLink a {
+  	color: white !important;
+  }
+
