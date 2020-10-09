@@ -133,10 +133,11 @@ class TicTacToeBoard extends Component {
 
 	resetBoard = () => {
 		const { board } = this.state;
-		let newBoard = [ ['', '', ''],
-						 ['', '', ''],
-						 ['', '', '']
-					];
+		let newBoard =  [
+				['', '', ''],
+				['', '', ''],
+				['', '', ''],
+			];
 
 		this.setState({ board: newBoard });
 	}
